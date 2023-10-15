@@ -22,12 +22,18 @@ const Footer = () => {
           <li className="menuItem">FAQ</li>
         </ul>
         <div className="infoText">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequat. Duis aute irure dolor in
-          reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-          pariatur.
+          Welcome to Movie Madness, your ultimate destination for all things
+          movies, TV shows, and celebrities. We're dedicated to providing you
+          with the most comprehensive and up-to-date information on the latest
+          releases, classic films, top-rated TV series, and the talented
+          individuals who bring them to life. Our passionate community of movie
+          enthusiasts actively engages in discussions, ratings, and reviews,
+          making us your go-to source for honest opinions and recommendations.
+          We're proud to be a part of the IMDb family and strive to offer you
+          the best experience in exploring the world of cinema. Thank you for
+          joining us on this cinematic journey, and remember to stay connected
+          with us through our social media channels and mobile apps for the
+          latest updates.
         </div>
         <div className="socialIcons">
           <span className="icon">
